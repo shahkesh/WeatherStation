@@ -1,4 +1,4 @@
-# ESE Projekt: Wetterstation
+# Embedded Systems Engineering Projekt: Wetterstation
 
 In diesem Projekt werden Sensoren über ESP 32 Devkits angesteuert und ausgelesen.
 Diese Daten werden dem Raspberry Pi, auf dem ein Webserver läuft, geschickt, dann
