@@ -4,6 +4,7 @@ In diesem Projekt werden Sensoren über ESP 32 Devkits angesteuert und ausgelese
 Diese Daten werden dem Raspberry Pi, auf dem ein Webserver läuft, geschickt, dann
 in der Datenbank gespeichert und mittels PHP bearbeitet und im Browser angezeigt.
 
+![screen](https://github.com/shahkesh/WeatherStation/blob/master/Anzeige1.jpg)
 
 ## Download and install
 
